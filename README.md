@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhsinulfikri
-- 👀 I’m interested in android development and java maybe flutter too
-- 🌱 I’m currently learning android developer, with java and flutter
+- 👀 I’m interested in android development
+- 🌱 I’m currently learning android developer, with java, kotlin and flutter
 - 💞️ I’m looking to collaborate on mobile developer
 - 📫 How to reach me? email : mohpikry90@gmail.com
 
